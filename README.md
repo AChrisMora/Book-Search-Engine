@@ -20,7 +20,7 @@ You could install it using the repo or checkout the deployment on render.
 ## Usage
     
 Check out the render deployment.
-
+https://book-search-engine-v6kq.onrender.com
 
 ## License
 
@@ -33,7 +33,7 @@ Contributers? Never heard of em.
 ## Tests
     
 Here is a cool lil screenshot.
-![Screenshot of app.](/.png)
+![Screenshot of app.](/Assets/Screenshot.png)
     
 ## Questions
     
